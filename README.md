@@ -1,0 +1,2 @@
+# gurazdowski.pl
+About me
