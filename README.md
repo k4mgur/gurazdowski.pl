@@ -1,2 +1,2 @@
 # gurazdowski.pl
-About me
+Simple website about my person
